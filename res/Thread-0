@@ -1,0 +1,14 @@
+Lane,Left,432
+Lane,Down,592
+Lane,Up,742
+Lane,Right,892
+Down,Normal,1348
+Up,Normal,1621
+Right,Normal,1915
+Left,Normal,2201
+Up,Normal,2487
+Right,Normal,2775
+Left,Normal,3077
+Up,Normal,3348
+Down,Normal,3639
+Right,Normal,3939
